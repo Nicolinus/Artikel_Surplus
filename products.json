@@ -41,7 +41,7 @@
     {
       "id": "merino-naturwolle",
       "name": "Merino Naturwolle",
-      "price": 135,
+      "price": 225,
       "unit": {
         "quantity": 100,
         "uom": "g",
@@ -57,7 +57,7 @@
     {
       "id": "merino-sport",
       "name": "Merino Sport",
-      "price": 255.9,
+      "price": 25.9,
       "unit": {
         "quantity": 100,
         "uom": "g",

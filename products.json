@@ -126,6 +126,11 @@
           "name": "wollweiß",
           "image": "naturwolle-wollweiss.jpg",
           "available": 20
+        },
+        {
+          "name": "hellgrau",
+          "image": "naturwolle-hellgrau.jpg",
+          "available": 10
         }
       ]
     },

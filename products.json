@@ -109,6 +109,11 @@
           "name": "hellgrau",
           "image": "",
           "available": 22
+        },
+        {
+          "name": "dunkelbraun",
+          "image": "",
+          "available": 54
         }
       ]
     },

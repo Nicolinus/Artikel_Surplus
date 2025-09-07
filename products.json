@@ -83,7 +83,7 @@
     {
       "id": "neues-produkt",
       "name": "Merino Naturwolle",
-      "price": 1,
+      "price": 5.5,
       "unit": {
         "quantity": 1,
         "uom": "Stück",

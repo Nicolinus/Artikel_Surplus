@@ -136,6 +136,11 @@
           "name": "hellbraun",
           "image": "naturwolle-hellbraun.jpg",
           "available": 20
+        },
+        {
+          "name": "dunkelgrau",
+          "image": "naturwolle-dunkelgrau.jpg",
+          "available": 20
         }
       ]
     },

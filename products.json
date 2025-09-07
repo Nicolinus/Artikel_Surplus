@@ -54,7 +54,7 @@
       "aliases": [],
       "variants": [
         {
-          "name": "wollweiß",
+          "name": "Standard",
           "image": "https://github.com/bireggbaum-beep/site/blob/main/wolle_placeholder.jpg?raw=true",
           "available": 32
         },
@@ -67,6 +67,11 @@
           "name": "hellgrau",
           "image": "merino-naturwolle-hellgrau.jpg",
           "available": 29
+        },
+        {
+          "name": "dunkelbraun",
+          "image": "",
+          "available": 33
         }
       ]
     },

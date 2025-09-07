@@ -125,7 +125,7 @@
     {
       "id": "merino-star",
       "name": "Merino Star",
-      "price": 3.5,
+      "price": 63.5,
       "unit": {
         "quantity": 50,
         "uom": "g",
@@ -138,9 +138,9 @@
       "aliases": [],
       "variants": [
         {
-          "name": "petrol",
+          "name": "Standard",
           "image": "",
-          "available": 20
+          "available": 0
         }
       ]
     },
@@ -204,9 +204,9 @@
       "aliases": [],
       "variants": [
         {
-          "name": "Standard",
+          "name": "violett",
           "image": "",
-          "available": 0
+          "available": 50
         }
       ]
     },

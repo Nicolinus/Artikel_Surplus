@@ -108,6 +108,28 @@
       ]
     },
     {
+      "id": "naturwolle",
+      "name": "Naturwolle",
+      "price": 6.3,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "garn",
+      "active": true,
+      "order": 1,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "wollweiß",
+          "image": "",
+          "available": 20
+        }
+      ]
+    },
+    {
       "id": "neues-produkt",
       "name": "Merino Naturwolle",
       "price": 5.5,
@@ -122,11 +144,6 @@
       "order": 2,
       "aliases": [],
       "variants": [
-        {
-          "name": "wollweiß",
-          "image": "wollweiß.jpg",
-          "available": 53
-        },
         {
           "name": "hellbraun",
           "image": "",
@@ -146,6 +163,16 @@
           "name": "dunkelgrau",
           "image": "",
           "available": 14
+        },
+        {
+          "name": "Neue Farbe 6",
+          "image": "",
+          "available": 0
+        },
+        {
+          "name": "Neue Farbe 6",
+          "image": "",
+          "available": 0
         }
       ]
     },

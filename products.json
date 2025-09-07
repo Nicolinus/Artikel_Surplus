@@ -39,6 +39,33 @@
   ],
   "products": [
     {
+      "id": "apfelsuppe",
+      "name": "Apfelsuppe",
+      "price": 0,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "",
+      "active": true,
+      "order": 1,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "apfelsuppe-standard.jpg",
+          "available": 0
+        },
+        {
+          "name": "Jakob Fischer",
+          "image": "apfelsuppe-jakob-fischer.jpg",
+          "available": 2
+        }
+      ]
+    },
+    {
       "id": "naturwolle",
       "name": "Naturwolle",
       "price": 6.3,
@@ -77,33 +104,6 @@
           "name": "dunkelbraun",
           "image": "naturwolle-dunkelbraun.jpg",
           "available": 20
-        }
-      ]
-    },
-    {
-      "id": "apfelsuppe",
-      "name": "Apfelsuppe",
-      "price": 0,
-      "unit": {
-        "quantity": 1,
-        "uom": "Stück",
-        "packaging": null,
-        "display": "pro Stück"
-      },
-      "category": "",
-      "active": true,
-      "order": 2,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "Standard",
-          "image": "apfelsuppe-standard.jpg",
-          "available": 0
-        },
-        {
-          "name": "Jakob Fischer",
-          "image": "apfelsuppe-jakob-fischer.jpg",
-          "available": 2
         }
       ]
     },

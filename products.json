@@ -217,6 +217,11 @@
           "name": "Standard",
           "image": "biskaya.jpg",
           "available": 100
+        },
+        {
+          "name": "Neue Farbe 2",
+          "image": "",
+          "available": 30
         }
       ]
     },

@@ -39,48 +39,6 @@
   ],
   "products": [
     {
-      "id": "merino-sport",
-      "name": "Merino Sport",
-      "price": 5.5,
-      "unit": {
-        "quantity": 100,
-        "uom": "g",
-        "packaging": "Strang",
-        "display": "pro 100g-Strang"
-      },
-      "category": "garn",
-      "active": true,
-      "order": 1,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "wollweiß",
-          "image": "merino-sport-wollweiß.jpg",
-          "available": 52
-        },
-        {
-          "name": "hellbraun",
-          "image": "",
-          "available": 40
-        },
-        {
-          "name": "hellgrau",
-          "image": "",
-          "available": 63
-        },
-        {
-          "name": "dunkelbraun",
-          "image": "",
-          "available": 22
-        },
-        {
-          "name": "dunkelgrau",
-          "image": "",
-          "available": 43
-        }
-      ]
-    },
-    {
       "id": "neues-produkt",
       "name": "Merino Naturwolle",
       "price": 5.5,
@@ -730,6 +688,48 @@
           "name": "Jakob Fischer",
           "image": "apfelsuppe-jakob-fischer.jpg",
           "available": 2
+        }
+      ]
+    },
+    {
+      "id": "merino-sport",
+      "name": "Merino Sport",
+      "price": 5.5,
+      "unit": {
+        "quantity": 100,
+        "uom": "g",
+        "packaging": "Strang",
+        "display": "pro 100g-Strang"
+      },
+      "category": "garn",
+      "active": true,
+      "order": 31,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "wollweiß",
+          "image": "merino-sport-wollweiß.jpg",
+          "available": 52
+        },
+        {
+          "name": "hellbraun",
+          "image": "",
+          "available": 40
+        },
+        {
+          "name": "hellgrau",
+          "image": "",
+          "available": 63
+        },
+        {
+          "name": "dunkelbraun",
+          "image": "",
+          "available": 22
+        },
+        {
+          "name": "dunkelgrau",
+          "image": "",
+          "available": 43
         }
       ]
     }

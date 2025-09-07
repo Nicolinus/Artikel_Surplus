@@ -57,6 +57,11 @@
           "name": "Standard",
           "image": "https://github.com/bireggbaum-beep/site/blob/main/wolle_placeholder.jpg?raw=true",
           "available": 0
+        },
+        {
+          "name": "hellbraun",
+          "image": "",
+          "available": 50
         }
       ]
     },

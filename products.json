@@ -108,53 +108,6 @@
       ]
     },
     {
-      "id": "neues-produkt",
-      "name": "Merino Naturwolle",
-      "price": 5.5,
-      "unit": {
-        "quantity": 1,
-        "uom": "Stück",
-        "packaging": "null",
-        "display": "pro Stück"
-      },
-      "category": "garn",
-      "active": true,
-      "order": 2,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "hellbraun",
-          "image": "",
-          "available": 17
-        },
-        {
-          "name": "hellgrau",
-          "image": "",
-          "available": 22
-        },
-        {
-          "name": "dunkelbraun",
-          "image": "",
-          "available": 54
-        },
-        {
-          "name": "dunkelgrau",
-          "image": "",
-          "available": 14
-        },
-        {
-          "name": "Neue Farbe 6",
-          "image": "",
-          "available": 0
-        },
-        {
-          "name": "Neue Farbe 6",
-          "image": "",
-          "available": 0
-        }
-      ]
-    },
-    {
       "id": "merino-star",
       "name": "Merino Star",
       "price": 63.5,
@@ -782,6 +735,53 @@
           "name": "dunkelgrau",
           "image": "",
           "available": 43
+        }
+      ]
+    },
+    {
+      "id": "neues-produkt",
+      "name": "Merino Naturwolle",
+      "price": 5.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": "null",
+        "display": "pro Stück"
+      },
+      "category": "garn",
+      "active": true,
+      "order": 32,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "hellbraun",
+          "image": "",
+          "available": 17
+        },
+        {
+          "name": "hellgrau",
+          "image": "",
+          "available": 22
+        },
+        {
+          "name": "dunkelbraun",
+          "image": "",
+          "available": 54
+        },
+        {
+          "name": "dunkelgrau",
+          "image": "",
+          "available": 14
+        },
+        {
+          "name": "Neue Farbe 6",
+          "image": "",
+          "available": 0
+        },
+        {
+          "name": "Neue Farbe 6",
+          "image": "",
+          "available": 0
         }
       ]
     }

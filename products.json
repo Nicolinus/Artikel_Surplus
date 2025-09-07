@@ -725,6 +725,11 @@
           "name": "Standard",
           "image": "apfelsuppe-standard.jpg",
           "available": 0
+        },
+        {
+          "name": "Jakob Fischer",
+          "image": "apfelsuppe-jakob-fischer.jpg",
+          "available": 2
         }
       ]
     }

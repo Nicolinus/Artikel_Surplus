@@ -114,6 +114,11 @@
           "name": "dunkelbraun",
           "image": "",
           "available": 54
+        },
+        {
+          "name": "dunkelgrau",
+          "image": "",
+          "available": 14
         }
       ]
     },
@@ -328,7 +333,7 @@
         "display": "pro 50g-Knäuel"
       },
       "category": "sockenwolle",
-      "active": true,
+      "active": false,
       "order": 12,
       "aliases": [
         "Sockenwolle + Seide"
@@ -692,6 +697,28 @@
       "category": "fuellmaterial",
       "active": true,
       "order": 28,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
+    },
+    {
+      "id": "neues-produkt-1",
+      "name": "Neues Produkt",
+      "price": 0,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "",
+      "active": true,
+      "order": 30,
       "aliases": [],
       "variants": [
         {

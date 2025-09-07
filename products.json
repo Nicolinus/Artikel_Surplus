@@ -666,8 +666,8 @@
     },
     {
       "id": "neues-produkt",
-      "name": "Neues Produkt",
-      "price": 12,
+      "name": "Merino Naturwolle",
+      "price": 1,
       "unit": {
         "quantity": 1,
         "uom": "Stück",
@@ -680,9 +680,9 @@
       "aliases": [],
       "variants": [
         {
-          "name": "Standard",
+          "name": "wollweiß",
           "image": "",
-          "available": 0
+          "available": 33
         }
       ]
     }

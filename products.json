@@ -41,7 +41,7 @@
     {
       "id": "merino-naturwolle",
       "name": "Merino Naturwolle",
-      "price": 173.5,
+      "price": 73.5,
       "unit": {
         "quantity": 100,
         "uom": "g",
@@ -52,8 +52,13 @@
       "active": true,
       "order": 1,
       "aliases": [],
-      "image": "https://github.com/bireggbaum-beep/site/blob/main/wolle_placeholder.jpg?raw=true",
-      "available": 0
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "https://github.com/bireggbaum-beep/site/blob/main/wolle_placeholder.jpg?raw=true",
+          "available": 0
+        }
+      ]
     },
     {
       "id": "merino-sport",
@@ -69,8 +74,13 @@
       "active": true,
       "order": 2,
       "aliases": [],
-      "image": "",
-      "available": 0
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
     },
     {
       "id": "merino-star",
@@ -86,8 +96,13 @@
       "active": true,
       "order": 3,
       "aliases": [],
-      "image": "",
-      "available": 0
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
     },
     {
       "id": "biskaya",
@@ -103,8 +118,13 @@
       "active": true,
       "order": 4,
       "aliases": [],
-      "image": "biskaya.jpg",
-      "available": 100
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "biskaya.jpg",
+          "available": 100
+        }
+      ]
     },
     {
       "id": "bel-lino",
@@ -120,8 +140,13 @@
       "active": true,
       "order": 5,
       "aliases": [],
-      "image": "",
-      "available": 0
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
     },
     {
       "id": "solaire",
@@ -137,8 +162,13 @@
       "active": true,
       "order": 6,
       "aliases": [],
-      "image": "",
-      "available": 0
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
     },
     {
       "id": "soft-cotton",
@@ -154,8 +184,13 @@
       "active": true,
       "order": 7,
       "aliases": [],
-      "image": "",
-      "available": 0
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
     },
     {
       "id": "cotton-star",
@@ -171,8 +206,13 @@
       "active": true,
       "order": 8,
       "aliases": [],
-      "image": "",
-      "available": 0
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
     },
     {
       "id": "angora-elegance",
@@ -190,8 +230,13 @@
       "aliases": [
         "Angora elegance"
       ],
-      "image": "",
-      "available": 0
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
     },
     {
       "id": "susiwool",
@@ -207,8 +252,13 @@
       "active": true,
       "order": 10,
       "aliases": [],
-      "image": "",
-      "available": 0
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
     },
     {
       "id": "susiline",
@@ -224,8 +274,13 @@
       "active": true,
       "order": 11,
       "aliases": [],
-      "image": "",
-      "available": 0
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
     },
     {
       "id": "sockenwolle-mit-seide",
@@ -243,8 +298,13 @@
       "aliases": [
         "Sockenwolle + Seide"
       ],
-      "image": "",
-      "available": 0
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
     },
     {
       "id": "lama-sockenwolle",
@@ -260,8 +320,13 @@
       "active": true,
       "order": 13,
       "aliases": [],
-      "image": "",
-      "available": 0
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
     },
     {
       "id": "stabilia-sockenwolle",
@@ -277,8 +342,13 @@
       "active": true,
       "order": 14,
       "aliases": [],
-      "image": "",
-      "available": 0
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
     },
     {
       "id": "wollkuegelchen-pack-500g",
@@ -294,8 +364,13 @@
       "active": true,
       "order": 15,
       "aliases": [],
-      "image": "",
-      "available": 0
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
     },
     {
       "id": "wendemuetze",
@@ -313,8 +388,13 @@
       "aliases": [
         "Wende Mütze"
       ],
-      "image": "",
-      "available": 0
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
     },
     {
       "id": "lammwoll-muetze",
@@ -332,8 +412,13 @@
       "aliases": [
         "Lammwollmütze"
       ],
-      "image": "",
-      "available": 0
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
     },
     {
       "id": "wollschal",
@@ -349,8 +434,13 @@
       "active": true,
       "order": 18,
       "aliases": [],
-      "image": "",
-      "available": 0
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
     },
     {
       "id": "stulpen",
@@ -366,8 +456,13 @@
       "active": true,
       "order": 19,
       "aliases": [],
-      "image": "",
-      "available": 0
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
     },
     {
       "id": "stirnband",
@@ -383,8 +478,13 @@
       "active": true,
       "order": 20,
       "aliases": [],
-      "image": "",
-      "available": 0
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
     },
     {
       "id": "lammwolle-stirnband",
@@ -400,8 +500,13 @@
       "active": true,
       "order": 21,
       "aliases": [],
-      "image": "",
-      "available": 0
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
     },
     {
       "id": "wollsocken-mit-seide",
@@ -419,8 +524,13 @@
       "aliases": [
         "Wollsocken + Seide"
       ],
-      "image": "",
-      "available": 0
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
     },
     {
       "id": "lamasocken",
@@ -436,8 +546,13 @@
       "active": true,
       "order": 23,
       "aliases": [],
-      "image": "",
-      "available": 0
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
     },
     {
       "id": "stabilia-arbeitssocken",
@@ -455,8 +570,13 @@
       "aliases": [
         "Stabilia Socken"
       ],
-      "image": "",
-      "available": 0
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
     },
     {
       "id": "makramee-3mm",
@@ -472,8 +592,13 @@
       "active": true,
       "order": 25,
       "aliases": [],
-      "image": "",
-      "available": 0
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
     },
     {
       "id": "makramee-5mm",
@@ -489,8 +614,13 @@
       "active": true,
       "order": 26,
       "aliases": [],
-      "image": "",
-      "available": 0
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
     },
     {
       "id": "kardenband",
@@ -506,8 +636,13 @@
       "active": true,
       "order": 27,
       "aliases": [],
-      "image": "",
-      "available": 0
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
     },
     {
       "id": "wollkuegelchen-500g",
@@ -523,8 +658,13 @@
       "active": true,
       "order": 28,
       "aliases": [],
-      "image": "",
-      "available": 0
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
     },
     {
       "id": "neues-produkt",
@@ -540,8 +680,13 @@
       "active": true,
       "order": 30,
       "aliases": [],
-      "image": "",
-      "available": 0
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
     }
   ]
 }

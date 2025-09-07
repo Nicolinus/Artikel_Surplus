@@ -60,8 +60,13 @@
         },
         {
           "name": "hellbraun",
-          "image": "",
+          "image": "merino-naturwolle-hellbraun.jpg",
           "available": 50
+        },
+        {
+          "name": "hellbraun",
+          "image": "merino-naturwolle-hellbraun",
+          "available": 29
         }
       ]
     },

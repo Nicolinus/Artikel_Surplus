@@ -99,6 +99,11 @@
           "name": "wollweiß",
           "image": "wollweiß.pg",
           "available": 33
+        },
+        {
+          "name": "hellbraun",
+          "image": "",
+          "available": 17
         }
       ]
     },

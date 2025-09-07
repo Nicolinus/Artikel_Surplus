@@ -39,9 +39,9 @@
   ],
   "products": [
     {
-      "id": "merino-naturwolle",
-      "name": "Merino Naturwolle",
-      "price": 73.5,
+      "id": "merino-sport",
+      "name": "Merino Sport",
+      "price": 5.5,
       "unit": {
         "quantity": 100,
         "uom": "g",
@@ -55,45 +55,8 @@
       "variants": [
         {
           "name": "wollweiß",
-          "image": "https://github.com/bireggbaum-beep/site/blob/main/wolle_placeholder.jpg?raw=true",
-          "available": 32
-        },
-        {
-          "name": "hellbraun",
-          "image": "merino-naturwolle-hellbraun.jpg",
-          "available": 50
-        },
-        {
-          "name": "hellgrau",
-          "image": "merino-naturwolle-hellgrau.jpg",
-          "available": 29
-        },
-        {
-          "name": "dunkelbraun",
           "image": "",
-          "available": 33
-        }
-      ]
-    },
-    {
-      "id": "merino-sport",
-      "name": "Merino Sport",
-      "price": 25.9,
-      "unit": {
-        "quantity": 100,
-        "uom": "g",
-        "packaging": "Strang",
-        "display": "pro 100g-Strang"
-      },
-      "category": "garn",
-      "active": true,
-      "order": 2,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "Standard",
-          "image": "",
-          "available": 0
+          "available": 44
         }
       ]
     },

@@ -707,8 +707,8 @@
       ]
     },
     {
-      "id": "neues-produkt-1",
-      "name": "Neues Produkt",
+      "id": "apfelsuppe",
+      "name": "Apfelsuppe",
       "price": 0,
       "unit": {
         "quantity": 1,

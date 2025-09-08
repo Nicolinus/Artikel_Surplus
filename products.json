@@ -104,6 +104,11 @@
           "name": "wollweiß",
           "image": "wollschals-wollweiss.jpg",
           "available": 50
+        },
+        {
+          "name": "dunkelgrau",
+          "image": "wollschals-dunkelgrau.jpg",
+          "available": 50
         }
       ]
     },

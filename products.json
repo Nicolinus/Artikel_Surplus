@@ -185,6 +185,11 @@
           "name": "hellgrau",
           "image": "bel-lino-hellgrau.jpg",
           "available": 0
+        },
+        {
+          "name": "rosa",
+          "image": "bel-lino-rosa.jpg",
+          "available": 0
         }
       ]
     },

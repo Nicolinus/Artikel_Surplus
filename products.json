@@ -110,7 +110,7 @@
     {
       "id": "merino-star",
       "name": "Merino Star",
-      "price": 63.5,
+      "price": 3.5,
       "unit": {
         "quantity": 50,
         "uom": "g",
@@ -124,8 +124,13 @@
       "variants": [
         {
           "name": "Standard",
-          "image": "",
+          "image": "merino-star-standard.jpg",
           "available": 0
+        },
+        {
+          "name": "blaugrau",
+          "image": "",
+          "available": 30
         }
       ]
     },

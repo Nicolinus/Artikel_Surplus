@@ -39,70 +39,6 @@
   ],
   "products": [
     {
-      "id": "naturwolle",
-      "name": "Naturwolle",
-      "price": 6.3,
-      "unit": {
-        "quantity": 1,
-        "uom": "Stück",
-        "packaging": null,
-        "display": "pro Stück"
-      },
-      "category": "garn",
-      "active": true,
-      "order": 1,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "wollweiß",
-          "image": "naturwolle-wollweiss.jpg",
-          "available": 20
-        },
-        {
-          "name": "hellgrau",
-          "image": "naturwolle-hellgrau.jpg",
-          "available": 10
-        },
-        {
-          "name": "hellbraun",
-          "image": "naturwolle-hellbraun.jpg",
-          "available": 20
-        },
-        {
-          "name": "dunkelgrau",
-          "image": "naturwolle-dunkelgrau.jpg",
-          "available": 20
-        },
-        {
-          "name": "dunkelbraun",
-          "image": "naturwolle-dunkelbraun.jpg",
-          "available": 20
-        }
-      ]
-    },
-    {
-      "id": "merino-naturwolle",
-      "name": "Merino Naturwolle",
-      "price": 5,
-      "unit": {
-        "quantity": 1,
-        "uom": "Stück",
-        "packaging": null,
-        "display": "pro Stück"
-      },
-      "category": "",
-      "active": true,
-      "order": 1,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "dunkelbraun",
-          "image": "merino-naturwolle-dunkelbraun.jpg",
-          "available": 20
-        }
-      ]
-    },
-    {
       "id": "wollmutzen",
       "name": "Wollmützen",
       "price": 16.5,
@@ -140,9 +76,9 @@
       ]
     },
     {
-      "id": "apfelsuppe",
-      "name": "Apfelsuppe",
-      "price": 0,
+      "id": "wollschals",
+      "name": "Wollschals",
+      "price": 22,
       "unit": {
         "quantity": 1,
         "uom": "Stück",
@@ -155,14 +91,14 @@
       "aliases": [],
       "variants": [
         {
-          "name": "Standard",
-          "image": "apfelsuppe-standard.jpg",
-          "available": 0
+          "name": "hellgrau",
+          "image": "wollschals-hellgrau.jpg",
+          "available": 50
         },
         {
-          "name": "Jakob Fischer",
-          "image": "apfelsuppe-jakob-fischer.jpg",
-          "available": 2
+          "name": "hellbraun",
+          "image": "",
+          "available": 50
         }
       ]
     },
@@ -222,6 +158,33 @@
           "name": "Neue Farbe 2",
           "image": "biskaya-neue-farbe-2.jpg",
           "available": 30
+        }
+      ]
+    },
+    {
+      "id": "apfelsuppe",
+      "name": "Apfelsuppe",
+      "price": 0,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "",
+      "active": true,
+      "order": 5,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "apfelsuppe-standard.jpg",
+          "available": 0
+        },
+        {
+          "name": "Jakob Fischer",
+          "image": "apfelsuppe-jakob-fischer.jpg",
+          "available": 2
         }
       ]
     },
@@ -761,6 +724,92 @@
       "category": "fuellmaterial",
       "active": true,
       "order": 28,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
+    },
+    {
+      "id": "naturwolle",
+      "name": "Naturwolle",
+      "price": 6.3,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "garn",
+      "active": true,
+      "order": 30,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "wollweiß",
+          "image": "naturwolle-wollweiss.jpg",
+          "available": 20
+        },
+        {
+          "name": "hellgrau",
+          "image": "naturwolle-hellgrau.jpg",
+          "available": 10
+        },
+        {
+          "name": "hellbraun",
+          "image": "naturwolle-hellbraun.jpg",
+          "available": 20
+        },
+        {
+          "name": "dunkelgrau",
+          "image": "naturwolle-dunkelgrau.jpg",
+          "available": 20
+        },
+        {
+          "name": "dunkelbraun",
+          "image": "naturwolle-dunkelbraun.jpg",
+          "available": 20
+        }
+      ]
+    },
+    {
+      "id": "merino-naturwolle",
+      "name": "Merino Naturwolle",
+      "price": 5,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "",
+      "active": true,
+      "order": 30,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "dunkelbraun",
+          "image": "merino-naturwolle-dunkelbraun.jpg",
+          "available": 20
+        }
+      ]
+    },
+    {
+      "id": "neues-produkt",
+      "name": "Neues Produkt",
+      "price": 0,
+      "unit": {
+        "quantity": 1,
+        "uom": "Stück",
+        "packaging": null,
+        "display": "pro Stück"
+      },
+      "category": "",
+      "active": true,
+      "order": 40,
       "aliases": [],
       "variants": [
         {

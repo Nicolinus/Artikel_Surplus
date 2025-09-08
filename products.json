@@ -118,8 +118,8 @@
       "aliases": [],
       "variants": [
         {
-          "name": "wollweiß/hellgrau",
-          "image": "wollmutzen-wollweiss-hellgrau.jpg",
+          "name": "hellgrau",
+          "image": "wollmutzen-hellgrau.jpg",
           "available": 65
         },
         {

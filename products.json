@@ -121,6 +121,11 @@
           "name": "wollweiß/hellgrau",
           "image": "wollmutzen-wollweiss-hellgrau.jpg",
           "available": 65
+        },
+        {
+          "name": "wollweiß/hellbraun",
+          "image": "wollmutzen-wollweiss-hellbraun.jpg",
+          "available": 55
         }
       ]
     },

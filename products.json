@@ -104,6 +104,11 @@
           "name": "Jakob Fischer",
           "image": "apfelsuppe-jakob-fischer.jpg",
           "available": 2
+        },
+        {
+          "name": "Boskop",
+          "image": "apfelsuppe-boskop.jpg",
+          "available": 5
         }
       ]
     },

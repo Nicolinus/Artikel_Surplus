@@ -39,8 +39,8 @@
   ],
   "products": [
     {
-      "id": "wollmutzen",
-      "name": "Wollmützen",
+      "id": "wendemutzen",
+      "name": "Wendemützen",
       "price": 18.5,
       "unit": {
         "quantity": 1,
@@ -55,22 +55,22 @@
       "variants": [
         {
           "name": "hellgrau",
-          "image": "wollmutzen-hellgrau.jpg",
+          "image": "wendemutzen-hellgrau.jpg",
           "available": 65
         },
         {
           "name": "hellbraun",
-          "image": "wollmutzen-hellbraun.jpg",
+          "image": "wendemutzen-hellbraun.jpg",
           "available": 55
         },
         {
           "name": "dunkelgrau",
-          "image": "wollmutzen-dunkelgrau.jpg",
+          "image": "wendemutzen-dunkelgrau.jpg",
           "available": 50
         },
         {
           "name": "dunkelbraun",
-          "image": "wollmutzen-dunkelbraun.jpg",
+          "image": "wendemutzen-dunkelbraun.jpg",
           "available": 50
         }
       ]

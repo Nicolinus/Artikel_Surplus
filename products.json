@@ -253,6 +253,28 @@
       ]
     },
     {
+      "id": "wollkuegelchen-500g",
+      "name": "Wollkügelchen",
+      "price": 10,
+      "unit": {
+        "quantity": 500,
+        "uom": "g",
+        "packaging": "null",
+        "display": "pro 500g"
+      },
+      "category": "fuellmaterial",
+      "active": true,
+      "order": 6,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "natuton",
+          "image": "wollkuegelchen-500g-natuton.jpg",
+          "available": 100
+        }
+      ]
+    },
+    {
       "id": "soft-cotton",
       "name": "Soft Cotton",
       "price": 1.5,
@@ -699,28 +721,6 @@
           "name": "Standard",
           "image": "",
           "available": 0
-        }
-      ]
-    },
-    {
-      "id": "wollkuegelchen-500g",
-      "name": "Wollkügelchen",
-      "price": 10,
-      "unit": {
-        "quantity": 500,
-        "uom": "g",
-        "packaging": "null",
-        "display": "pro 500g"
-      },
-      "category": "fuellmaterial",
-      "active": true,
-      "order": 28,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "natuton",
-          "image": "wollkuegelchen-500g-natuton.jpg",
-          "available": 100
         }
       ]
     },

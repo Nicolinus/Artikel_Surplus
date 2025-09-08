@@ -112,10 +112,10 @@
       "name": "Merino Star",
       "price": 3.5,
       "unit": {
-        "quantity": 50,
-        "uom": "g",
-        "packaging": "Knäuel",
-        "display": "pro 50g-Knäuel"
+        "quantity": 1,
+        "uom": "50g",
+        "packaging": "Knuel",
+        "display": "pro Stück"
       },
       "category": "garn",
       "active": true,
@@ -123,14 +123,9 @@
       "aliases": [],
       "variants": [
         {
-          "name": "Standard",
-          "image": "merino-star-standard.jpg",
-          "available": 0
-        },
-        {
           "name": "blaugrau",
-          "image": "",
-          "available": 30
+          "image": "merino-star-blaugrau.jpg",
+          "available": 50
         }
       ]
     },

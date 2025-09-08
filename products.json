@@ -131,6 +131,11 @@
           "name": "dunkelgrau",
           "image": "wollmutzen-dunkelgrau.jpg",
           "available": 50
+        },
+        {
+          "name": "dunkelbraun",
+          "image": "wollmutzen-dunkelbraun.jpg",
+          "available": 50
         }
       ]
     },

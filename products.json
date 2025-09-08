@@ -104,11 +104,6 @@
           "name": "Jakob Fischer",
           "image": "apfelsuppe-jakob-fischer.jpg",
           "available": 2
-        },
-        {
-          "name": "Boskop",
-          "image": "apfelsuppe-boskop.jpg",
-          "available": 5
         }
       ]
     },
@@ -136,6 +131,11 @@
           "name": "lagune",
           "image": "merino-star-lagune.jpg",
           "available": 20
+        },
+        {
+          "name": "sand",
+          "image": "merino-star-sand.jpg",
+          "available": 40
         }
       ]
     },

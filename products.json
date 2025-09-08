@@ -41,14 +41,14 @@
     {
       "id": "wollmutzen",
       "name": "Wollmützen",
-      "price": 16.5,
+      "price": 18.5,
       "unit": {
         "quantity": 1,
         "uom": "Stück",
         "packaging": null,
         "display": "pro Stück"
       },
-      "category": "",
+      "category": "accessoires",
       "active": true,
       "order": 1,
       "aliases": [],
@@ -118,65 +118,6 @@
       ]
     },
     {
-      "id": "merino-star",
-      "name": "Merino Star",
-      "price": 3.5,
-      "unit": {
-        "quantity": 1,
-        "uom": "50g",
-        "packaging": "Knuel",
-        "display": "pro Stück"
-      },
-      "category": "garn",
-      "active": true,
-      "order": 3,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "blaugrau",
-          "image": "merino-star-blaugrau.jpg",
-          "available": 50
-        },
-        {
-          "name": "lagune",
-          "image": "merino-star-lagune.jpg",
-          "available": 20
-        },
-        {
-          "name": "mode",
-          "image": "merino-star-mode.jpg",
-          "available": 40
-        }
-      ]
-    },
-    {
-      "id": "biskaya",
-      "name": "Biskaya",
-      "price": 2.2,
-      "unit": {
-        "quantity": 50,
-        "uom": "g",
-        "packaging": "Knäuel",
-        "display": "pro 50g-Knäuel"
-      },
-      "category": "garn",
-      "active": true,
-      "order": 4,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "Standard",
-          "image": "biskaya.jpg",
-          "available": 100
-        },
-        {
-          "name": "Neue Farbe 2",
-          "image": "biskaya-neue-farbe-2.jpg",
-          "available": 30
-        }
-      ]
-    },
-    {
       "id": "apfelsuppe",
       "name": "Apfelsuppe",
       "price": 0,
@@ -227,6 +168,65 @@
           "name": "rosa",
           "image": "bel-lino-rosa.jpg",
           "available": 0
+        }
+      ]
+    },
+    {
+      "id": "merino-star",
+      "name": "Merino Star",
+      "price": 3.5,
+      "unit": {
+        "quantity": 1,
+        "uom": "50g",
+        "packaging": "Knuel",
+        "display": "pro Stück"
+      },
+      "category": "garn",
+      "active": true,
+      "order": 6,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "blaugrau",
+          "image": "merino-star-blaugrau.jpg",
+          "available": 50
+        },
+        {
+          "name": "lagune",
+          "image": "merino-star-lagune.jpg",
+          "available": 20
+        },
+        {
+          "name": "mode",
+          "image": "merino-star-mode.jpg",
+          "available": 40
+        }
+      ]
+    },
+    {
+      "id": "biskaya",
+      "name": "Biskaya",
+      "price": 2.2,
+      "unit": {
+        "quantity": 50,
+        "uom": "g",
+        "packaging": "Knäuel",
+        "display": "pro 50g-Knäuel"
+      },
+      "category": "garn",
+      "active": true,
+      "order": 6,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "biskaya.jpg",
+          "available": 100
+        },
+        {
+          "name": "Neue Farbe 2",
+          "image": "biskaya-neue-farbe-2.jpg",
+          "available": 30
         }
       ]
     },

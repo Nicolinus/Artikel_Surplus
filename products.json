@@ -126,6 +126,11 @@
           "name": "blaugrau",
           "image": "merino-star-blaugrau.jpg",
           "available": 50
+        },
+        {
+          "name": "lagune",
+          "image": "merino-star-lagune.jpg",
+          "available": 20
         }
       ]
     },

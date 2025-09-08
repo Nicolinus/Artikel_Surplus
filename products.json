@@ -455,28 +455,6 @@
       ]
     },
     {
-      "id": "wollkuegelchen-pack-500g",
-      "name": "Wollkügelchen",
-      "price": 8,
-      "unit": {
-        "quantity": 500,
-        "uom": "g",
-        "packaging": "Pack",
-        "display": "pro 500g-Pack"
-      },
-      "category": "fuellmaterial",
-      "active": true,
-      "order": 15,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "Standard",
-          "image": "wollkuegelchen-pack-500g-standard.jpg",
-          "available": 0
-        }
-      ]
-    },
-    {
       "id": "lammwoll-muetze",
       "name": "Lammwoll Mütze",
       "price": 10,

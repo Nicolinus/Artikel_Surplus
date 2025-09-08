@@ -99,6 +99,11 @@
           "name": "hellbraun",
           "image": "wollschals-hellbraun.jpg",
           "available": 50
+        },
+        {
+          "name": "wollweiß",
+          "image": "wollschals-wollweiss.jpg",
+          "available": 50
         }
       ]
     },

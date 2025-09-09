@@ -72,6 +72,33 @@
           "name": "dunkelbraun",
           "image": "wendemutzen-dunkelbraun.jpg",
           "available": 50
+        },
+        {
+          "name": "Neue Farbe 5",
+          "image": "",
+          "available": 0
+        }
+      ]
+    },
+    {
+      "id": "stulpen",
+      "name": "Stulpen",
+      "price": 13.35,
+      "unit": {
+        "quantity": 1,
+        "uom": "Paar",
+        "packaging": "null",
+        "display": "pro Paar"
+      },
+      "category": "accessoires",
+      "active": true,
+      "order": 1,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
         }
       ]
     },
@@ -172,28 +199,6 @@
       ]
     },
     {
-      "id": "soft-cotton",
-      "name": "Soft Cotton",
-      "price": 1.5,
-      "unit": {
-        "quantity": 50,
-        "uom": "g",
-        "packaging": "Knäuel",
-        "display": "pro 50g-Knäuel"
-      },
-      "category": "garn",
-      "active": true,
-      "order": 7,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "Standard",
-          "image": "",
-          "available": 0
-        }
-      ]
-    },
-    {
       "id": "apfelsuppe",
       "name": "Apfelsuppe",
       "price": 0,
@@ -221,138 +226,16 @@
       ]
     },
     {
-      "id": "bel-lino",
-      "name": "Bel Lino",
-      "price": 2.2,
+      "id": "stabilia-sockenwolle",
+      "name": "Stabilia Sockenwolle",
+      "price": 1.5,
       "unit": {
         "quantity": 50,
         "uom": "g",
         "packaging": "Knäuel",
         "display": "pro 50g-Knäuel"
       },
-      "category": "garn",
-      "active": true,
-      "order": 8,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "hellgrau",
-          "image": "bel-lino-hellgrau.jpg",
-          "available": 0
-        },
-        {
-          "name": "rosa",
-          "image": "bel-lino-rosa.jpg",
-          "available": 0
-        }
-      ]
-    },
-    {
-      "id": "biskaya",
-      "name": "Biskaya",
-      "price": 2.2,
-      "unit": {
-        "quantity": 50,
-        "uom": "g",
-        "packaging": "Knäuel",
-        "display": "pro 50g-Knäuel"
-      },
-      "category": "garn",
-      "active": true,
-      "order": 8,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "Standard",
-          "image": "biskaya.jpg",
-          "available": 100
-        },
-        {
-          "name": "Neue Farbe 2",
-          "image": "biskaya-neue-farbe-2.jpg",
-          "available": 30
-        }
-      ]
-    },
-    {
-      "id": "solaire",
-      "name": "Solaire",
-      "price": 2.2,
-      "unit": {
-        "quantity": 50,
-        "uom": "g",
-        "packaging": "Knäuel",
-        "display": "pro 50g-Knäuel"
-      },
-      "category": "garn",
-      "active": true,
-      "order": 8,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "violett",
-          "image": "",
-          "available": 50
-        }
-      ]
-    },
-    {
-      "id": "cotton-star",
-      "name": "Cotton Star",
-      "price": 2,
-      "unit": {
-        "quantity": 50,
-        "uom": "g",
-        "packaging": "Knäuel",
-        "display": "pro 50g-Knäuel"
-      },
-      "category": "garn",
-      "active": true,
-      "order": 8,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "Standard",
-          "image": "",
-          "available": 0
-        }
-      ]
-    },
-    {
-      "id": "angora-elegance",
-      "name": "Angora élegance",
-      "price": 2,
-      "unit": {
-        "quantity": 20,
-        "uom": "g",
-        "packaging": "Knäuel",
-        "display": "pro 20g-Knäuel"
-      },
-      "category": "garn",
-      "active": true,
-      "order": 9,
-      "aliases": [
-        "Angora elegance"
-      ],
-      "variants": [
-        {
-          "name": "Standard",
-          "image": "",
-          "available": 0
-        }
-      ]
-    },
-    {
-      "id": "susiwool",
-      "name": "Susiwool",
-      "price": 1,
-      "unit": {
-        "quantity": 50,
-        "uom": "g",
-        "packaging": "Knäuel",
-        "display": "pro 50g-Knäuel"
-      },
-      "category": "garn",
+      "category": "sockenwolle",
       "active": true,
       "order": 10,
       "aliases": [],
@@ -365,19 +248,45 @@
       ]
     },
     {
-      "id": "susiline",
-      "name": "Susiline",
-      "price": 1,
+      "id": "wollsocken-mit-seide",
+      "name": "Wollsocken mit Seide",
+      "price": 10,
       "unit": {
-        "quantity": 50,
-        "uom": "g",
-        "packaging": "Knäuel",
-        "display": "pro 50g-Knäuel"
+        "quantity": 1,
+        "uom": "Paar",
+        "packaging": "null",
+        "display": "pro Paar"
       },
-      "category": "garn",
+      "category": "accessoires",
       "active": true,
-      "order": 11,
-      "aliases": [],
+      "order": 10,
+      "aliases": [
+        "Wollsocken + Seide"
+      ],
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
+    },
+    {
+      "id": "stabilia-arbeitssocken",
+      "name": "Stabilia Arbeitssocken",
+      "price": 5.35,
+      "unit": {
+        "quantity": 1,
+        "uom": "Paar",
+        "packaging": "null",
+        "display": "pro Paar"
+      },
+      "category": "accessoires",
+      "active": true,
+      "order": 10,
+      "aliases": [
+        "Stabilia Socken"
+      ],
       "variants": [
         {
           "name": "Standard",
@@ -433,28 +342,6 @@
       ]
     },
     {
-      "id": "stabilia-sockenwolle",
-      "name": "Stabilia Sockenwolle",
-      "price": 1.5,
-      "unit": {
-        "quantity": 50,
-        "uom": "g",
-        "packaging": "Knäuel",
-        "display": "pro 50g-Knäuel"
-      },
-      "category": "sockenwolle",
-      "active": true,
-      "order": 14,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "Standard",
-          "image": "",
-          "available": 0
-        }
-      ]
-    },
-    {
       "id": "lammwoll-muetze",
       "name": "Lammwoll Mütze",
       "price": 10,
@@ -479,18 +366,18 @@
       ]
     },
     {
-      "id": "wollschal",
-      "name": "Wollschal",
-      "price": 24,
+      "id": "soft-cotton",
+      "name": "Soft Cotton",
+      "price": 1.5,
       "unit": {
-        "quantity": 1,
-        "uom": "Stück",
-        "packaging": "null",
-        "display": "pro Stück"
+        "quantity": 50,
+        "uom": "g",
+        "packaging": "Knäuel",
+        "display": "pro 50g-Knäuel"
       },
-      "category": "accessoires",
+      "category": "garn",
       "active": true,
-      "order": 18,
+      "order": 20,
       "aliases": [],
       "variants": [
         {
@@ -501,19 +388,119 @@
       ]
     },
     {
-      "id": "stulpen",
-      "name": "Stulpen",
-      "price": 13.35,
+      "id": "bel-lino",
+      "name": "Bel Lino",
+      "price": 2.2,
       "unit": {
-        "quantity": 1,
-        "uom": "Paar",
-        "packaging": "null",
-        "display": "pro Paar"
+        "quantity": 50,
+        "uom": "g",
+        "packaging": "Knäuel",
+        "display": "pro 50g-Knäuel"
       },
-      "category": "accessoires",
+      "category": "garn",
       "active": true,
-      "order": 19,
+      "order": 20,
       "aliases": [],
+      "variants": [
+        {
+          "name": "hellgrau",
+          "image": "bel-lino-hellgrau.jpg",
+          "available": 0
+        },
+        {
+          "name": "rosa",
+          "image": "bel-lino-rosa.jpg",
+          "available": 0
+        }
+      ]
+    },
+    {
+      "id": "biskaya",
+      "name": "Biskaya",
+      "price": 2.2,
+      "unit": {
+        "quantity": 50,
+        "uom": "g",
+        "packaging": "Knäuel",
+        "display": "pro 50g-Knäuel"
+      },
+      "category": "garn",
+      "active": true,
+      "order": 20,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "biskaya.jpg",
+          "available": 100
+        },
+        {
+          "name": "Neue Farbe 2",
+          "image": "biskaya-neue-farbe-2.jpg",
+          "available": 30
+        }
+      ]
+    },
+    {
+      "id": "solaire",
+      "name": "Solaire",
+      "price": 2.2,
+      "unit": {
+        "quantity": 50,
+        "uom": "g",
+        "packaging": "Knäuel",
+        "display": "pro 50g-Knäuel"
+      },
+      "category": "garn",
+      "active": true,
+      "order": 20,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "violett",
+          "image": "",
+          "available": 50
+        }
+      ]
+    },
+    {
+      "id": "cotton-star",
+      "name": "Cotton Star",
+      "price": 2,
+      "unit": {
+        "quantity": 50,
+        "uom": "g",
+        "packaging": "Knäuel",
+        "display": "pro 50g-Knäuel"
+      },
+      "category": "garn",
+      "active": true,
+      "order": 20,
+      "aliases": [],
+      "variants": [
+        {
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
+    },
+    {
+      "id": "angora-elegance",
+      "name": "Angora élegance",
+      "price": 2,
+      "unit": {
+        "quantity": 20,
+        "uom": "g",
+        "packaging": "Knäuel",
+        "display": "pro 20g-Knäuel"
+      },
+      "category": "garn",
+      "active": true,
+      "order": 20,
+      "aliases": [
+        "Angora elegance"
+      ],
       "variants": [
         {
           "name": "Standard",
@@ -545,52 +532,6 @@
       ]
     },
     {
-      "id": "lammwolle-stirnband",
-      "name": "Lammwolle Stirnband",
-      "price": 7.35,
-      "unit": {
-        "quantity": 1,
-        "uom": "Stück",
-        "packaging": "null",
-        "display": "pro Stück"
-      },
-      "category": "accessoires",
-      "active": true,
-      "order": 21,
-      "aliases": [],
-      "variants": [
-        {
-          "name": "Standard",
-          "image": "",
-          "available": 0
-        }
-      ]
-    },
-    {
-      "id": "wollsocken-mit-seide",
-      "name": "Wollsocken mit Seide",
-      "price": 10,
-      "unit": {
-        "quantity": 1,
-        "uom": "Paar",
-        "packaging": "null",
-        "display": "pro Paar"
-      },
-      "category": "accessoires",
-      "active": true,
-      "order": 22,
-      "aliases": [
-        "Wollsocken + Seide"
-      ],
-      "variants": [
-        {
-          "name": "Standard",
-          "image": "",
-          "available": 0
-        }
-      ]
-    },
-    {
       "id": "lamasocken",
       "name": "Lamasocken",
       "price": 12.2,
@@ -604,30 +545,6 @@
       "active": true,
       "order": 23,
       "aliases": [],
-      "variants": [
-        {
-          "name": "Standard",
-          "image": "",
-          "available": 0
-        }
-      ]
-    },
-    {
-      "id": "stabilia-arbeitssocken",
-      "name": "Stabilia Arbeitssocken",
-      "price": 5.35,
-      "unit": {
-        "quantity": 1,
-        "uom": "Paar",
-        "packaging": "null",
-        "display": "pro Paar"
-      },
-      "category": "accessoires",
-      "active": true,
-      "order": 24,
-      "aliases": [
-        "Stabilia Socken"
-      ],
       "variants": [
         {
           "name": "Standard",
@@ -703,14 +620,14 @@
       ]
     },
     {
-      "id": "naturwolle",
-      "name": "Naturwolle",
-      "price": 6.3,
+      "id": "susiwool",
+      "name": "Susiwool",
+      "price": 1,
       "unit": {
-        "quantity": 1,
-        "uom": "Stück",
-        "packaging": null,
-        "display": "pro Stück"
+        "quantity": 50,
+        "uom": "g",
+        "packaging": "Knäuel",
+        "display": "pro 50g-Knäuel"
       },
       "category": "garn",
       "active": true,
@@ -718,29 +635,31 @@
       "aliases": [],
       "variants": [
         {
-          "name": "wollweiß",
-          "image": "naturwolle-wollweiss.jpg",
-          "available": 20
-        },
+          "name": "Standard",
+          "image": "",
+          "available": 0
+        }
+      ]
+    },
+    {
+      "id": "susiline",
+      "name": "Susiline",
+      "price": 1,
+      "unit": {
+        "quantity": 50,
+        "uom": "g",
+        "packaging": "Knäuel",
+        "display": "pro 50g-Knäuel"
+      },
+      "category": "garn",
+      "active": true,
+      "order": 30,
+      "aliases": [],
+      "variants": [
         {
-          "name": "hellgrau",
-          "image": "naturwolle-hellgrau.jpg",
-          "available": 10
-        },
-        {
-          "name": "hellbraun",
-          "image": "naturwolle-hellbraun.jpg",
-          "available": 20
-        },
-        {
-          "name": "dunkelgrau",
-          "image": "naturwolle-dunkelgrau.jpg",
-          "available": 20
-        },
-        {
-          "name": "dunkelbraun",
-          "image": "naturwolle-dunkelbraun.jpg",
-          "available": 20
+          "name": "Standard",
+          "image": "",
+          "available": 0
         }
       ]
     },

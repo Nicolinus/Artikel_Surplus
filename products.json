@@ -525,9 +525,9 @@
       "aliases": [],
       "variants": [
         {
-          "name": "Standard",
-          "image": "",
-          "available": 0
+          "name": "rostrot",
+          "image": "stirnband-rostrot.jpg",
+          "available": 20
         }
       ]
     },

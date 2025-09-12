@@ -83,7 +83,7 @@
     {
       "id": "stulpen",
       "name": "Stulpen",
-      "price": 13.35,
+      "price": 13.5,
       "unit": {
         "quantity": 1,
         "uom": "Paar",
@@ -96,9 +96,9 @@
       "aliases": [],
       "variants": [
         {
-          "name": "Standard",
-          "image": "",
-          "available": 0
+          "name": "hellgrau",
+          "image": "stulpen-hellgrau.jpg",
+          "available": 20
         }
       ]
     },

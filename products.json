@@ -104,6 +104,11 @@
           "name": "hellgrau",
           "image": "stulpen-hellgrau.jpg",
           "available": 20
+        },
+        {
+          "name": "wollweiß",
+          "image": "stulpen-wollweiss.jpg",
+          "available": 20
         }
       ]
     },

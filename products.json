@@ -99,6 +99,11 @@
           "name": "hellbraun",
           "image": "stulpen-hellbraun.jpg",
           "available": 20
+        },
+        {
+          "name": "hellgrau",
+          "image": "stulpen-hellgrau.jpg",
+          "available": 20
         }
       ]
     },

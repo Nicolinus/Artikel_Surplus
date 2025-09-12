@@ -96,8 +96,8 @@
       "aliases": [],
       "variants": [
         {
-          "name": "hellbraun",
-          "image": "stulpen-hellbraun.jpg",
+          "name": "dunkelgrau",
+          "image": "stulpen-dunkelgrau.jpg",
           "available": 20
         },
         {
@@ -111,8 +111,8 @@
           "available": 20
         },
         {
-          "name": "dunkelgrau",
-          "image": "stulpen-dunkelgrau.jpg",
+          "name": "hellbraun",
+          "image": "stulpen-hellbraun.jpg",
           "available": 20
         },
         {

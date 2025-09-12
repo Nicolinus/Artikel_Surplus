@@ -114,6 +114,11 @@
           "name": "dunkelgrau",
           "image": "stulpen-dunkelgrau.jpg",
           "available": 0
+        },
+        {
+          "name": "dunkelbraun",
+          "image": "stulpen-dunkelbraun.jpg",
+          "available": 20
         }
       ]
     },

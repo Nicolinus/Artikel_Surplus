@@ -138,13 +138,13 @@
       "aliases": [],
       "variants": [
         {
-          "name": "hellgrau",
-          "image": "wollschals-hellgrau.jpg",
+          "name": "hellbraun",
+          "image": "wollschals-hellbraun.jpg",
           "available": 50
         },
         {
-          "name": "hellbraun",
-          "image": "wollschals-hellbraun.jpg",
+          "name": "hellgrau",
+          "image": "wollschals-hellgrau.jpg",
           "available": 50
         },
         {
